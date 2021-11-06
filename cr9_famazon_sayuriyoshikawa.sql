@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 06, 2021 at 05:54 PM
+-- Generation Time: Nov 06, 2021 at 06:14 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.7
 
@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `famazon`
+-- Database: `cr9_famazon_sayuriyoshikawa`
 --
-CREATE DATABASE IF NOT EXISTS `famazon` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `famazon`;
+CREATE DATABASE IF NOT EXISTS `cr9_famazon_sayuriyoshikawa` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `cr9_famazon_sayuriyoshikawa`;
 
 -- --------------------------------------------------------
 
